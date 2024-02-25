@@ -86,11 +86,6 @@
 // #define ENABLE_RGB_MATRIX_SOLID_MULTISPLASH
 #endif
 
-#ifdef OLED_ENABLE
-#define OLED_BRIGHTNESS 128
-
-#endif
-
 #ifdef BLUETOOTH_ENABLE
 /** Bluetooth config */
 #define BLUEFRUIT_LE_RST_PIN B0
